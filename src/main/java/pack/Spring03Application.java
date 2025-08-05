@@ -11,7 +11,7 @@ public class Spring03Application {
 	
 	@GetMapping("/")
 	public String ttt() {
-		return "333";
+		return "333!!!!";
 	}
 
 	public static void main(String[] args) {
